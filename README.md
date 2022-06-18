@@ -1,5 +1,5 @@
 # Twitter-Sentiment-Analysis
- The aim of this project is to analyse the sentiments of people's tweets and Visualising it.
+ The aim of this project is to analyze the sentiments of people's tweets and Visualizing them.
 
 It is no longer difficult to understand what people think about a topic by analysing the tweets shared by people. 
 Sentiment analysis is one of the most popular use cases for NLP (Natural Language Processing).
