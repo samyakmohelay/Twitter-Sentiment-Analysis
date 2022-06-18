@@ -4,7 +4,7 @@
 It is no longer difficult to understand what people think about a topic by analysing the tweets shared by people. 
 Sentiment analysis is one of the most popular use cases for NLP (Natural Language Processing).
 
-![](https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/0.png)
+<img src="https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/0.png" width="600" height="400">
 
 Here, we are going to utilize the “Tweepy” library which is an easy-to-use Python library for accessing the Twitter API. 
 
@@ -15,7 +15,7 @@ Here, we are going to utilize the “Tweepy” library which is an easy-to-use P
  
 And we need to import libraries that we will use in this sentiment analysis project later on.
 
-![](https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/1.png)
+<img src="https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/1.png" width="500" height="400">
 
 Tweepy supports both OAuth 1a (application-user) and OAuth 2 (application-only) authentication. Authentication is handled by the tweepy.AuthHandler class.
 
@@ -101,12 +101,12 @@ so we can use wordcloud again for all tweets, positive tweets, negative tweets e
 
 #### Wordcloud for all tweets.
 
-![](https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/11.png)
+<img src="https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/11.png" width="800" height="500">
 
 #### Wordcloud for positive sentiment.
 
-![](https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/12.png)
+<img src="https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/12.png" width="800" height="500">
 
 #### Wordcloud for negative sentiment.
 
-![](https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/13.png)
+<img src="https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/13.png" width="800" height="500">
