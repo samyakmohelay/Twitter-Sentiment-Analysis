@@ -55,9 +55,7 @@ We put 2000 tweets and;
 
 ### 4. Creating PieChart
 
-![](https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/5.png)
-
-![](https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/6.png)
+<img src="https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/5.png" width="50" height="50">
 
 ### 5. Cleaning Tweets to Analyse Sentiment
 When we look tweet list we can see some duplicated tweets, so we need to drop duplicates records using drop_duplicates function.
