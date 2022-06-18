@@ -55,7 +55,9 @@ We put 2000 tweets and;
 
 ### 4. Creating PieChart
 
-<img src="https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/5.png" width="50" height="50">
+![](https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/5.png)
+
+<img src="https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/6.png" width="500" height="400">
 
 ### 5. Cleaning Tweets to Analyse Sentiment
 When we look tweet list we can see some duplicated tweets, so we need to drop duplicates records using drop_duplicates function.
@@ -83,7 +85,7 @@ For this one, creating 3 new data frame (tw_list_negative, tw_list_positive, tw_
 
 We can also create a chart by using number of sentiment tweets.
 
-![](https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/10.png)
+<img src="https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/10.png" width="500" height="400">
 
 ### 7. Function to Create Wordcloud
 
