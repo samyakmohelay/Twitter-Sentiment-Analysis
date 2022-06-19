@@ -6,7 +6,7 @@ Sentiment analysis is one of the most popular use cases for NLP (Natural Languag
 
 <img src="https://github.com/samyakmohelay/Twitter-Sentiment-Analysis/blob/main/assets/0.png" width="600" height="400">
 
-Here, we are going to utilize the “Tweepy” library which is an easy-to-use Python library for accessing the Twitter API. 
+Here, we are going to utilize the `Tweepy` library which is an easy-to-use Python library for accessing the Twitter API. 
 
 > A Twitter developer account is also required, to get authorised in order to use the twitter API.
  
@@ -37,7 +37,7 @@ These are hidden for security reasons.
 
 ### 3. Getting Tweets With Keyword or Hashtag
 
-In this scenario, the keyword or hashtag **"covid"** is used and the number of tweets to analyse are 2000.
+In this scenario, the keyword or hashtag `covid` is used and the number of tweets to analyse are `2000`.
 
 The number of tweets parameter is important because of the limit.
 
